@@ -4,9 +4,7 @@
  * Build Helpers
  *********************************/
 /* give each element a border */
-* {
-    border: 1px solid mediumvioletred;
-}
+
 
 /* shrink images for placement */
 img {
@@ -120,5 +118,5 @@ div[class$='row'] {
 * Footer
 *********************************/  
 footer {
-    
+
 }            
